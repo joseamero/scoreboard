@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    background: #253C78;
+    color: white;
+    text-align: center;
+}
+
+html {
+    height: 100%;
+}
+
+button {
+    margin: 5px;
+    padding: 4px 4px;
+    border-radius: 5px;
+    border: solid 1px;
+    color: white;
+    justify-content: center;
+    width: px;
+    background-color: #253C78;
+    transition: 0.5s ease-out;
+}
+
+button:hover {
+    font-size: 18px;
+}
+
+h3 {
+    margin: 10px;
+}
+
+#score1 {
+    text-align: center;
+    color: red;
+    background: black;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 35px;
+    margin: 0%;
+    width: 65px;
+    font-family: "Bitcount Single", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-shadow: 0px 0px 20px #ff4d6d;
+}
+
+#score2 {
+    text-align: center;
+    color: red;
+    background: black;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 35px;
+    margin: 0%;
+    width: 65px;
+    font-family: "Bitcount Single", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-shadow: 0px 0px 20px #ff4d6d;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+.team {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#reset {
+    border-radius: 0%;
+    border-color: #720026;
+    color: white;
+    padding: 5px 10px;
+    background: linear-gradient(#d7263d, #ff0054);
+}
