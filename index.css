@@ -1,12 +1,9 @@
 body {
     margin: 0;
-    background-image: url("images/D2BuhbQWkAAPiUv.png");
-    background-size: cover;
+    background: linear-gradient(to right, #fb8500, #ffb703);
     color: white;
     text-align: center;
 }
-
-/*background: linear-gradient(to right, #fb8500, #ffb703);*/
 
 html {
     height: 100%;
