@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: linear-gradient(#fb8500, #ffb703);
+    background: linear-gradient(to-right, #fb8500, #ffb703);
     color: white;
     text-align: center;
 }
