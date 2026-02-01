@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background-image: url("images/D2BuhbQWkAAPiUv.png");
+    background-size: cover;
     color: white;
     text-align: center;
 }
